@@ -1,2 +1,3 @@
-# matlab_optz_sitting
+# CODE_MATLAB_OPTZ_SITTING
 Optimal Placing by MATLAB
+
